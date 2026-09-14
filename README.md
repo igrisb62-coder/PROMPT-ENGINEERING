@@ -1,13 +1,3 @@
-1. **Title / Date / Experiment No.**
-2. **AI Tools Required**
-3. **Prompt Types & Prompt Input**
-4. **Output from Single AI Tool / Multiple AI Tools**
-5. **Evaluation Metrics / Table Format**
-6. **Conclusion**
-7. **Result**
-
-
-
 # EXPERIMENT 1
 
 ## COMPREHENSIVE REPORT ON THE FUNDAMENTALS OF GENERATIVE AI AND LARGE LANGUAGE MODELS
